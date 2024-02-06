@@ -5,8 +5,8 @@ import Link from "next/link";
 // TODO: Comment out when https://github.com/vercel/next.js/issues/50566 is fixed.
 
 export const metadata = {
-  title: "404 - Mohamed Boukthir",
-  description: "Not Found - Mohamed Boukthir",
+  title: "404 - Abdelaziz Naija",
+  description: "Not Found - Abdelaziz Naija",
 };
 
 export default function FourZeroFour() {

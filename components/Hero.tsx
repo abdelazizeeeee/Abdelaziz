@@ -25,18 +25,17 @@ export default function Hero(): ReactElement {
   return (
     <div>
       <h1 className="sr-only">
-        Hello I&apos;m Mohamed Boukthir, I&apos;m a software developer, I really like
-        making computer programs and finding smart ways to solve problems.
+        Hello I&apos;m Abdelaziz Naija, an AI engineer. I have a passion for creating computer programs and devising clever solutions to challenges..
       </h1>
       <div className="flex h-[calc(100vh-81px)] items-center md:h-[calc(100vh-80px)]">
         <div className="mx-auto w-screen max-w-3xl px-4 sm:px-9 xl:max-w-5xl xl:px-0">
           <div className="-mt-10 md:-mt-20">
             <div ref={ref} className="flex flex-col space-y-2">
               <h1 className="text-5xl font-semibold sm:text-5xl md:text-6xl xl:text-[4rem]">
-                Mohamed Boukthir
+                Abdelaziz Naija
               </h1>
               <h2 className="text-3xl font-medium opacity-80 sm:text-5xl md:text-5xl xl:text-5xl xl:leading-[3.5rem] text-justify ">
-                Software developer, I love learning about new tech and using it to make good
+                AI engineer, I love learning about new tech and using it to make good
                 software.
               </h2>
               <Link

@@ -24,7 +24,7 @@ export default function Navbar() {
               })}
               aria-label="Logo"
             >
-              MB.
+              ABDOU.
             </Link>
           </div>
           <div className="flex items-center space-x-3 text-base leading-5">

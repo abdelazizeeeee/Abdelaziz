@@ -40,24 +40,6 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a
-                  href={social.spotify}
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="spotify"
-                >
-                  <FaSpotify className="sm:text-lg" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href={social.facebook}
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="facebook"
-                >
-                  <AiFillFacebook className="sm:text-lg" />
-                </a>
               </li>
             </ul>
           </div>

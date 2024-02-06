@@ -57,8 +57,8 @@ I welcome any feedback or suggestions for improvement. Feel free to open an issu
 
 ## Contact
 
-Email: medboukthir7@gmail.com <br/>
-LinkedIn: https://www.linkedin.com/in/mohamedboukthir/ <br/>
+Email: abdelaziz.naija@horizon-tech.tn <br/>
+LinkedIn: https://www.linkedin.com/in/abdelaziz-naija-560793202/ <br/>
 Portfolio: https://mohamedboukthir.vercel.app/ 
 
 

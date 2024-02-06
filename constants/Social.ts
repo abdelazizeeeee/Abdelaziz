@@ -1,15 +1,13 @@
 const social = {
-  title: "Mohamed Boukthir",
-  author: "Mohamed Boukthir",
-  headerTitle: "mohamedboukthir",
-  description: "Software Developer",
+  title: "Abdelaziz Naija",
+  author: "Abdelaziz Naija",
+  headerTitle: "abdelaziz.naija",
+  description: "AI engineer",
   language: "en-us",
   theme: "dark", // system, dark or light
-  email: "medboukthir7@gmail.com",
-  github: "https://github.com/MohamedBoukthir",
-  facebook: "https://www.facebook.com/mo74med.b",
-  linkedin: "https://www.linkedin.com/in/mohamedboukthir/",
-  spotify: "https://open.spotify.com/user/31nsehshomjimjzivqmjxu4dmhvu",
+  email: "abdelaziz.naija@horizon-tech.tn",
+  github: "https://github.com/abdelazizeeeee",
+  linkedin: "https://www.linkedin.com/in/abdelaziz-naija-560793202/",
   locale: "tn-TN",
 };
 

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import me from "../../public/me.jpg";
+import me from "../../public/me.png";
 import { technologies } from "@/constants/Technologies";
 import SectionContainer from "../SectionContainer";
 
@@ -12,35 +12,30 @@ export default function About() {
 
           <div className="flex flex-col md:flex-row space-y-8 md:space-x-8 md:space-y-0">
             <div className="flex justify-center w-auto md:justify-start min-w-fit">
-              <Image
+              {/* <Image
                 src={me}
-                alt="Mohamed Boukthir"
+                alt="Abdelaziz Naija"
                 height={350}
                 className="object-cover"
                 quality={100}
                 priority={true}
-              />
+              /> */}
             </div>
             <div className="flex flex-col space-y-6">
               <article className="flex flex-col space-y-2">
                 <h2 className="text-3xl font-bold tracking-tight  self-center md:self-start">
-                  Mohamed Boukthir
+                  Abdelaziz Naija
                 </h2>
                 <h3 className="text-sm font-normal  self-center md:self-start">
-                  Software Developer
+                  AI engineer
                 </h3>
               </article>
               <article className="flex flex-col space-y-2 w-full ">
                 <p className=" text-sm leading-7 text-center md:text-start">
-                  I&apos;m a cybersecurity master&apos;s student passionate about keeping
-                  digital spaces safe. I also have some experience with web
-                  development.
+                I&apos;m an aspiring AI and data enthusiast eager to explore the realms of data science, data analysis, and machine learning. With a keen interest in harnessing the power of data to drive insights and innovations, I&apos;m excited to delve into the intricacies of AI algorithms and techniques. Additionally, I&apos;m keen on honing my skills in data analysis to uncover meaningful patterns and trends that can inform decision-making processes. Through continuous learning and hands-on experience, I aim to become proficient in leveraging data-driven approaches to tackle real-world challenges..
                 </p>
                 <p className="text-sm leading-7 text-center md:text-start">
-                  I love solving tough security problems and want to use my
-                  skills in both cybersecurity and web development to make the
-                  internet safer and better for everyone. I&apos;m excited to learn
-                  and grow in this fast-changing field
+  
                 </p>
               </article>
               <article className="flex flex-col space-y-2 w-full md:w-3/4">
